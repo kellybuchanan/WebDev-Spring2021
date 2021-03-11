@@ -1,1 +1,8 @@
-
+{"users": [
+  {
+    firstName: "first",
+    lastName: "last",
+    email: "email",
+    password: "password"
+  }  
+]}
