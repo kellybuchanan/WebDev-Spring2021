@@ -1,8 +1,8 @@
 {"users": [
   {
-    "firstName": "first",
-    "lastName": "last",
-    "email": "email",
-    "password": "password"
+    "firstName": "Jane",
+    "lastName": "Doe",
+    "email": "jdoe@gmail.com",
+    "password": "jdoe23"
   }  
 ]}
