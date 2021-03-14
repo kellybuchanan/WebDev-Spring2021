@@ -5,5 +5,12 @@
     "lastName": "Doe",
     "email": "jdoe@gmail.com",
     "password": "jdoe23"
-  }  
+  },
+  {
+    "id": 1,
+    "firstName": "John",
+    "lastName": "Mayer",
+    "email": "jmayer@gmail.com",
+    "password": "wonderland"
+  } 
 ]}
